@@ -23,3 +23,5 @@ collections:
 
 sass:
   quiet_deps: true
+
+show_excerpts: true
