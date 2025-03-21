@@ -22,6 +22,9 @@ layout: default
           <span class="post-meta">{{ post.date | date: date_format }} • Posted under {{ post.categories | join: ", " }} </span>
         </h3>
         {%- if site.show_excerpts -%}
+          {%- if post.excerpt_img -%}
+          <p><img src="{{ post.excerpt_img }}" alt="{{ post.title | escape }}" /></p>
+          {%- endif -%}
           {{ post.excerpt }}
           ... <a href="{{ post.url | relative_url }}">(keep reading) </a>
         {%- endif -%}
