@@ -8,7 +8,18 @@ url: "https://unmappedworlds.com"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 exclude:
    - .github/
    - .gitignore
+
+permalink: /:title/
+
+collections:
+  posts:
+    output: true
+    permalink: /posts/:title/
+
+sass:
+  quiet_deps: true
