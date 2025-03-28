@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vintage Story is better mapless"
-date: 2025-03-24 00:00:00 -0700
+date: 2025-03-24 07:00:00 -0700
 categories: guides
 excerpt_img: /assets/images/vintage-story-my-house.png
 ---

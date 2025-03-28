@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Five standout games I played in 2024"
-date: 2025-03-31 00:00:00 -0700
+date: 2025-03-31 07:00:00 -0700
 categories: retrospectives
 excerpt_img: /assets/images/five-standout-games-i-played-in-2024.png
 ---
