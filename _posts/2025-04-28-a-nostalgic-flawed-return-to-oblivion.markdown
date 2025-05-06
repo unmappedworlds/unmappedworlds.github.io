@@ -4,6 +4,7 @@ title: "A nostalgic, flawed return to Oblivion"
 date: 2025-04-28 07:00:00 -0700
 categories: reviews
 excerpt_img: /assets/images/oblivion-imperial-city.png
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lochuweoku2o
 ---
 
 TES IV: Oblivion remaster shadow dropped on a random Wednesday. I don't generally play games as soon as they come out; I'm more of a patient gamer. But I've been testing out PC Game Pass (I'm late to the train, I know), and I was able to pick it up "for free". Oh, and be warned - nostalgia for 2005 is a factor in this review.

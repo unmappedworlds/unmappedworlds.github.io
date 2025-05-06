@@ -4,6 +4,7 @@ title: "Indie detour: Kiosk"
 date: 2025-05-05 07:00:00 -0700
 categories: reviews
 excerpt_img: /assets/images/kiosk-interior.jpg
+bluesky_url: https://bsky.app/profile/did:plc:hi5z33z27qj2lzfmhfyc75gm/post/3logk2ygais2p
 ---
 
 As I've gotten older, and as I have more responsibilities, I've been having more appreciation for short games. Smaller, more focused indie experiences are fun! After all, I love games as a medium, and shorter games allow me to experience even more games. Because of the indie titles mixed in, I get to experience around a hundred titles in any given year. It's great.
