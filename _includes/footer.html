@@ -7,10 +7,21 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+        <p>
+          <a href="{{ "/feed.xml" | relative_url }}" target="_blank">
+            <img src="/assets/images/rss-icon.png" style="width: 16px; height: 16px; margin-top: -3px;" />
+            RSS
+          </a>
+          ·
+          <a href="https://bsky.app/profile/unmappedworlds.bsky.social" target="_blank">
+            <img src="/assets/images/bluesky-icon.png" style="width: 16px; height: 16px; margin-top: -3px;" />
+            Bluesky
+          </a>
+        </p>
       </div>
 
       <div class="footer-col footer-col-2">
+        <!-- Unused, see above. -->
         {%- include social.html -%}
       </div>
 
