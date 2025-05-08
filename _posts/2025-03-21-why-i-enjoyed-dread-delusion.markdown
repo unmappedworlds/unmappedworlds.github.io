@@ -4,6 +4,7 @@ title: "Why I enjoyed Dread Delusion"
 date: 2025-03-21 10:00:00 -0700
 categories: reviews
 excerpt_img: /assets/images/dread-delusion-high-confessor.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3loo7iibw4c2p
 ---
 
 I agonized about which game I'd like to write about first, and decided that Dread Delusion is the perfect candidate: I loved it, it tugged on my nostalgia strings, and it's still fresh in my head. Let me tell you about why I enjoyed Dread Delusion.
