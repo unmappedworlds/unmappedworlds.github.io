@@ -4,6 +4,7 @@ title: "Thoughts on 150+ PC Game Pass games"
 date: 2025-05-19 07:00:00 -0700
 categories: reviews
 excerpt_img: /assets/images/pc-game-pass-games-printout.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lpjrgh3vfs2v
 ---
 
 Is PC Game Pass worth it? Yeah, I think it mostly is, unless you're [ideologically opposed](/posts/on-owning-games/) to it. You can stop reading now if you want. Otherwise...
