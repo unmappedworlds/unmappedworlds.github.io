@@ -4,6 +4,7 @@ title: "What makes a procedural world have a soul?"
 date: 2025-05-26 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/valheim.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lq3laonnnk2v
 ---
 
 Procedural generation promises endless replayability... but does it deliver? Rarely. Procedurally generated worlds often feel hollow, empty, and soulless - a void where an expression of a creator could've been. I hate procedural generation in video games.
