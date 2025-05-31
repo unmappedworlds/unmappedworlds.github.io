@@ -3,11 +3,15 @@ layout: post
 title: "Oblivion lockpicking and progression systems"
 date: 2025-06-02 07:00:00 -0700
 categories: reflections
+excerpt_img: /assets/images/oblivion-lockpicking.jpeg
 ---
 
 The Elder Scrolls IV: Oblivion has a lockpicking mini-game. When you encounter a locked chest or a door, you whip out your lockpick and try to set the lock pins in the right position. There's some intuition to it, and you get better as you play. But here's the kicker: as your character's in-game skill increases, the number of tumblers you have to interact with decreases, significantly simplifying the mini-game. So, as you, the player, get better at the mechanic, the game itself gets easier.
 
 This illustrates a core design tension. There's nothing wrong with easy games, but when a player engages with a mechanic over a long time, they obtain a degree of mastery. Taking that mechanic away or simplifying it removes the satisfaction of getting better at things. The Oblivion example is particularly egregious because one fairly easy-to-find Daedric quest reward—an unbreakable lockpick—allows you to skip the mini-game completely, forever.
+
+![Oblivion lockpicking mini-game: a lockpick and five lock tumberls which must be moved under the right timing.](/assets/images/oblivion-lockpicking.jpeg)
+*Oblivion lockpicking mini-game isn't particularly engaging or fresh, but removing it altogether after spending time getting better at it doesn't feel right.*
 
 Skyrim improved this slightly; the unbreakable lockpick is a temporary item you must relinquish to progress the Thieves Guild storyline. Still, the underlying issue remains: the mini-game gets easier as your player skill grows. Instead of an increased or more engaging challenge, a skilled player is "rewarded" with a trivial task.
 
