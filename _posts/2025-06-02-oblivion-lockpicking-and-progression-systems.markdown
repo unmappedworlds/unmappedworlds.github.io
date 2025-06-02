@@ -4,6 +4,7 @@ title: "Oblivion lockpicking and progression systems"
 date: 2025-06-02 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/oblivion-lockpicking.jpeg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lqn42xngxc25
 ---
 
 The Elder Scrolls IV: Oblivion has a lockpicking mini-game. When you encounter a locked chest or a door, you whip out your lockpick and try to set the lock pins in the right position. There's some intuition to it, and you get better as you play. But here's the kicker: as your character's in-game skill increases, the number of tumblers you have to interact with decreases, significantly simplifying the mini-game. So, as you, the player, get better at the mechanic, the game itself gets easier.
