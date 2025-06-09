@@ -4,6 +4,7 @@ title: "The joys of leaving the map behind"
 date: 2025-06-09 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/outward-conflux-mountain.webp
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lr6ridb5cs2k
 ---
 
 This line of reasoning was the main reason I named this blog "Unmapped Worlds," but it’s a topic I haven't yet written about. Probably because I've feared that this article would need to be great, but the longer I'm putting it off, the more I feel like this needs to be amazing. In reality, it's not a revolutionary take; I just want to talk about how some great games handle navigation and traversal.
