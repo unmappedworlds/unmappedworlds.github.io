@@ -4,6 +4,7 @@ title: "Why we optimize the fun away: a case against the second screen"
 date: 2025-06-16 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/warhammer-40k-rogue-trader.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lrq66zxuk22a
 ---
 
 I'm going to make a case that the ease of access to information in video games can diminish the potential for fun. I'm not a Luddite and I'm not here to advocate for shutting down the Internet, but I do yearn for a time where looking up an answer wasn't as easy, or at least wasn't an immediate instinct.
