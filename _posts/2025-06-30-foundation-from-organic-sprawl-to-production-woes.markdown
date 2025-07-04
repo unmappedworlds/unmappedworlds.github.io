@@ -4,6 +4,7 @@ title: "Foundation: from organic sprawl to production woes"
 date: 2025-06-30 07:00:00 -0700
 categories: reviews
 excerpt_img: /assets/images/falkenheim-city.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lstevmyyfs24
 ---
 
 I've always been a fan of city builders. Many city builders use a grid, which makes sense from a gameplay standpoint but can be limiting to creativity. Even in games that don't require you to follow a grid - like Cities: Skylines - it's easy to fall into building identical squares. It's efficient and works just fine. But grids can be boring; grids are missing a soul: the aesthetics are repetitive, the feel is inorganic, and the layouts are predictable. I think of genres like city builders as a method of self-expression, and you do need a soul for that.
