@@ -25,18 +25,27 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if page.bluesky_url -%}
+  {%- if page.bluesky_url or page.medium_url -%}
     <h2>Comments</h2>
     <p>
-      You can join the conversation by
-      <a href="{{ page.bluesky_url }}" target="_blank">responding directly on Bluesky.</a>
+      Respond directly on&nbsp;
+      {%- if page.bluesky_url -%}
+        <a href="{{ page.bluesky_url }}" target="_blank">Bluesky</a> (threads shown below)
+      {%- endif -%}
+      {%- if page.bluesky_url and page.medium_url %} or {% endif -%}
+      {%- if page.medium_url -%}
+        <a href="{{ page.medium_url }}" target="_blank">Medium</a> (view comments there) 
+      {%- endif -%}.
     </p>
-    <bluesky-comments url="{{ page.bluesky_url }}">
-    </bluesky-comments>
-    <script type="module">
-      import "https://esm.sh/bluesky-comments-tag/load";
-    </script>
-  {% endif %}
+    
+    {%- if page.bluesky_url -%}
+      <bluesky-comments url="{{ page.bluesky_url }}">
+      </bluesky-comments>
+      <script type="module">
+        import "https://esm.sh/bluesky-comments-tag/load";
+      </script>
+    {%- endif -%}
+  {%- endif -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}

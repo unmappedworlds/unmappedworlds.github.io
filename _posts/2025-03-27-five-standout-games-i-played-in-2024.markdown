@@ -5,6 +5,7 @@ date: 2025-03-31 07:00:00 -0700
 categories: retrospectives
 excerpt_img: /assets/images/five-standout-games-i-played-in-2024.png
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lsjh7mm3zc2r
+medium_url: https://medium.com/@unmappedworlds/five-standout-games-i-played-in-2024-77d549a74bc5
 ---
 
 Tt's the end of March 2025, but I didn't yet have a gaming blog at the beginning of the year, so here I am playing catch-up and writing about my favorite games of 2024. I love reading folks reflecting on the games they played, and this post is my take.

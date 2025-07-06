@@ -5,6 +5,7 @@ date: 2025-03-24 07:00:00 -0700
 categories: guides
 excerpt_img: /assets/images/vintage-story-my-house.png
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lprgmezwls23
+medium_url: https://medium.com/@unmappedworlds/vintage-story-is-better-mapless-29b6f89b34fc
 ---
 
 At first glance, Vintage Story may seem like just another Minecraft clone, but it offers a depth that sets it apart. This game is a challenging, slow-paced sandbox where survival hinges on meticulous planning, thoughtful decision-making, and savvy resource management.

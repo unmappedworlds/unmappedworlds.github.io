@@ -4,6 +4,8 @@ title: "Why do I like games I do not finish"
 date: 2025-06-23 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/nier-automata-pat-pat.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lsbwg5nxrs27
+medium_url: https://medium.com/@unmappedworlds/why-do-i-like-games-i-do-not-finish-5ec2b235e585
 ---
 
 Hey there. I really like video games, and on average I play a little under a hundred games a year. The number has slowed down a tad bit after my daughter was born, but things have been picking back up - I'm starting to have some time here and there.

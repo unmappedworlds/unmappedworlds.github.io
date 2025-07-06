@@ -5,6 +5,7 @@ date: 2025-04-21 07:00:00 -0700
 categories: reviews
 excerpt_img: /assets/images/avowed-paradis.png
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lp7s2gxnpc2a
+medium_url: https://medium.com/@unmappedworlds/why-i-bounced-off-avowed-42ca7960b081
 ---
 
 For whatever reason Avowed didn't really grip me. I spent 6 hours in the game, and ended up bouncing off.

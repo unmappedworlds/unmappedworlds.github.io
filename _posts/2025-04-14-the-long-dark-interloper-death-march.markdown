@@ -5,6 +5,7 @@ date: 2025-04-14 07:00:00 -0700
 categories: reviews
 excerpt_img: /assets/images/the-long-dark-journal.jpg
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lt3hzesopk2r
+medium_url: https://medium.com/@unmappedworlds/the-long-dark-interloper-death-march-9756c6981711
 ---
 
 I've played The Long Dark on and off before: I enjoy the slow-paced survival gameplay, and focus on grounded realism is not something that's particularly common in survival games. I stumbled upon [Majuular's review of The Long Dark](https://www.youtube.com/watch?v=jYx1lkmfZhI): I liked his take on the fact that The Long Dark difficulty doesn't meaningfully change as you play: a campfire is just as welcoming after weeks pass in-game, and a wolf is just as dangerous as it was in the beginning of your run.

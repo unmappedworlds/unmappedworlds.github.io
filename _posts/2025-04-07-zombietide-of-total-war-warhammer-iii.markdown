@@ -5,6 +5,7 @@ date: 2025-04-07 07:00:00 -0700
 categories: guides
 excerpt_img: /assets/images/total-warhammer-iii-zombies-and-black-orcs.jpg
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lqd7l42zjc2m
+medium_url: https://medium.com/@unmappedworlds/zombietide-of-total-war-warhammer-iii-edcc3e512420
 ---
 
 Here on Unmapped Worlds, I either like games without maps, or games almost exclusively focused on maps. Total War: Warhammer III is the game in the latter category - it's my comfort game. I regularly revisit it when new DLCs come out, and the game always has something new to experience.

@@ -5,6 +5,7 @@ date: 2025-05-12 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/steam-digital-license.png
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3loyarcz7c22x
+medium_url: https://medium.com/@unmappedworlds/on-owning-games-98ef7ae27693
 ---
 
 For the past couple of weeks, I've been working on compiling my thoughts on every [PC Game Pass](https://www.xbox.com/en-US/xbox-game-pass/pc-game-pass) game I'm familiar with. That 10,000-words-so-far monstrosity is likely coming next week, but it did get me thinking about owning games.
