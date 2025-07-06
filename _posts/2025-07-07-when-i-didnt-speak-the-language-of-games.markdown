@@ -3,6 +3,7 @@ layout: post
 title: "When I didn't speak the language of games"
 date: 2025-07-07 07:00:00 -0700
 categories: reflections
+excerpt_img: /assets/images/morrowind-balmora.webp
 ---
 
 My uncle introduced me to video games around the 2000s. He wasn't an avid gamer, but he did have a Sony PlayStation 1 for his daughters - my older cousins - and he also dabbled in some PC games. I would run over to his house, load up titles like Crash Bandicoot and Resident Evil 2 on PS1, or maybe Deus Ex or Serious Sam on PC. Crucially, many of these games were in English, despite the fact I didn't live in an English-speaking country, nor did I speak the language
