@@ -12,6 +12,7 @@ gem "jekyll", "~> 4.4.1"
 gem "minima", "~> 2.5"
 
 group :jekyll_plugins do
+  gem "jekyll-category-pages"
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-sitemap"
