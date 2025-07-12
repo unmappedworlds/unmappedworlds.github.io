@@ -4,7 +4,7 @@ title: "When I didn't speak the language of games"
 date: 2025-07-07 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/morrowind-balmora.webp
-bsky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3ltez7bahjk26
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3ltez7bahjk26
 medium_url: https://medium.com/@unmappedworlds/when-i-didnt-speak-the-language-of-games-6f6ef463953d
 ---
 
