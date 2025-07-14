@@ -4,6 +4,8 @@ title: "Death Stranding and the exploration of grief"
 date: 2025-07-14 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/death-stranding-bb.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3ltwl7drqys22
+medium_url: https://medium.com/@unmappedworlds/death-stranding-and-the-exploration-of-grief-a69123225665
 ---
 
 My newborn son died almost 4 years ago. Yeah, that's a heavy topic for a gaming blog, but I've been sitting on wanting to write down my thoughts on how my gaming hobby is a part of the healing process. Definitely a trigger warning - I won't be talking about how things happened (those details are for my family and I), but I will talk in depth about how it made me feel. It's not pretty.
