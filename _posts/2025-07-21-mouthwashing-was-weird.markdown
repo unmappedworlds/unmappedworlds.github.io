@@ -5,6 +5,8 @@ date: 2025-07-21 07:00:00 -0700
 categories: reviews
 excerpt_img: /assets/images/mouthwashing-boxes.jpg
 excerpt: Recently I played Mouthwashing. It's a horror game about being stranded on a long haul spaceship after an accident, without hope of rescue, only for the crew to discover their cargo is thousands and thousands of boxes of mouthwash. It gets weird, quick.<br><br>
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lui6bw554k27
+medium_url: https://medium.com/@unmappedworlds/mouthwashing-was-weird-08a4196344eb
 ---
 
 _A short palate cleanser between beefier articles. Minor spoilers for the game Mouthwashing._
