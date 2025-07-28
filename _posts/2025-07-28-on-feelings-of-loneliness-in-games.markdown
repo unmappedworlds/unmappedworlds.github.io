@@ -4,6 +4,8 @@ title: "On feelings of loneliness in games"
 date: 2025-07-28 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/elite-dangerous.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3luzrsyrmxs2c
+medium_url: https://medium.com/@unmappedworlds/on-feelings-of-loneliness-in-games-abee22dc45f3
 ---
 
 
