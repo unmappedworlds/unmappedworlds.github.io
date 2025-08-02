@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perpetual and predatory game pricing"
+title: "The Sims 4 vs. Total Warhammer: predatory vs perpetual pricing"
 date: 2025-08-04 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/the-sims-4.jpg
