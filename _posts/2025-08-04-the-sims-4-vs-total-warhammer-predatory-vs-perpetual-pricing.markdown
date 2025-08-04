@@ -4,6 +4,8 @@ title: "The Sims 4 vs. Total Warhammer: predatory vs perpetual pricing"
 date: 2025-08-04 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/the-sims-4.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lvlfahcx3c2b
+medium_url: https://medium.com/@unmappedworlds/the-sims-4-vs-total-warhammer-predatory-vs-perpetual-pricing-601bf658d6bb
 ---
 
 I've spent a lot of time thinking about predatory pricing in games. My feelings on the matter are complicated, and are made up of contradictions and biases. My initial revulsion was directed at games like The Sims 4. Look - the idea of a game where the full experience costs over $1,000 feels like a scam, a transparent and cynical attempt to nickel-and-dime players to death. Electronic Arts being the publisher doesn't really help add the credibility to the business model. Dear EA, your golden poo award was well deserved.
