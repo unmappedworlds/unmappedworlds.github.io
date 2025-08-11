@@ -4,6 +4,8 @@ title: "Don't hide the worlds behind HUDs"
 date: 2025-08-11 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/assassins-creed-odyssey-ui.jpg
+medium_url: https://medium.com/@unmappedworlds/dont-hide-the-worlds-behind-huds-7e0f977b2865
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lw52udni3s25
 ---
 
 Just as much as I don't like having magically updated maps in games (see [the joys of leaving the map behind](/posts/the-joys-of-leaving-the-map-behind/)), I also get taken out of the experience by the two-dimensional HUDs (heads-up display) plopped onto the screen. This right here is a familiar sight:
