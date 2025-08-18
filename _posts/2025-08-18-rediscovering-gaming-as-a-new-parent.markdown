@@ -4,6 +4,8 @@ title: "Rediscovering gaming as a new parent"
 date: 2025-08-18 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/skyrim.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lwopt3kb2c2u
+medium_url: https://medium.com/@unmappedworlds/rediscovering-gaming-as-a-new-parent-3b7f11e23ddd
 ---
 
 It all started a month earlier than expected. One evening my eight-months-pregnant wife said "Something's slightly off, we should go to a hospital", and twelve hours later my daughter was born.
