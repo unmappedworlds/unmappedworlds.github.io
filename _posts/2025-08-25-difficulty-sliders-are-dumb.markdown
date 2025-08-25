@@ -4,8 +4,9 @@ title: "Difficulty sliders are dumb"
 date: 2025-08-25 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/aliens-dark-descent.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lxad3le74k2c
+medium_url: https://medium.com/@unmappedworlds/difficulty-sliders-are-dumb-f4b0cf11c910
 ---
-
 
 Yesterday I caught myself thinking fondly of Aliens: Dark Descent. A game I quit half way through due to being too nail bitingly difficult. It's my own fault, I cranked up the difficulty when starting the game, and there was no difficulty slider to adjust mid-campaign - so I just gave up after a particularly difficult set of encounters.
 
