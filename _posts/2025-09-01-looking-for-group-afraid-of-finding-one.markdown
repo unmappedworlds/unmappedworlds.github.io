@@ -4,6 +4,8 @@ title: "Looking for group, afraid of finding one"
 date: 2025-09-01 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/world-of-warcraft-classic.jpg
+medium_url: https://medium.com/@unmappedworlds/looking-for-group-afraid-of-finding-one-9df3cf6a16ca
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lxrueir6ps2c
 ---
 
 I have a weird relationship with the online aspect of gaming. On one side, I enjoy interacting with other people - and games can be made even more fun with the right group of people. But on the other side, online games tug on deeply seated social anxiety. Let’s unpack and meander, shall we?
