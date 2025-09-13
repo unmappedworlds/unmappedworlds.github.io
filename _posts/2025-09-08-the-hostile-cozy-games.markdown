@@ -4,6 +4,8 @@ title: "The hostile cozy games"
 date: 2025-09-08 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/valheim-home.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lydivypsic2k
+medium_url: https://medium.com/@unmappedworlds/the-hostile-cozy-games-dfccec338cdf
 ---
 
 
