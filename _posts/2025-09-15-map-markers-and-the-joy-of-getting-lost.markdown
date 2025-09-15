@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Map markers and the joy of geting lost"
+title: "Map markers and the joy of getting lost"
 date: 2025-09-15 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/skyrim-map-marker.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lyv2qynhec2b
+medium_url: https://medium.com/@unmappedworlds/map-markers-and-the-joy-of-getting-lost-8977f3e04e74
 ---
 
 There’s a certain kind of video game memory that sticks with me. It’s not a final boss fight or a cutscene - it's the feeling of being completely and utterly lost. I remember the frustration, the aimless wandering, and then, the sheer, unadulterated triumph of finally figuring it out. Not many modern games invoke that feeling. Why? The little arrow on my screen. The quest marker.
