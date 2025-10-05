@@ -4,6 +4,8 @@ title: "The tyranny of my gaming backlog"
 date: 2025-09-29 07:00:00 -0700
 categories: retrospectives
 excerpt_img: /assets/images/game-analysis-spreadsheet.png
+medium_url: https://medium.com/@unmappedworlds/the-tyranny-of-my-gaming-backlog-866ff33832ba
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lzyetkly5c2w
 ---
 
 I own at least 584 games. That's a combination of Steam, GOG, Epic, and Nintendo shops, plus some smaller launchers like Battle.net or EA Origins.

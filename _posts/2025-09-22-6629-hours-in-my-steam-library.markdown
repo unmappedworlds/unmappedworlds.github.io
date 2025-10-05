@@ -4,6 +4,8 @@ title: "6,629 hours in my Steam library"
 date: 2025-09-22 07:00:00 -0700
 categories: retrospectives
 excerpt_img: /assets/images/steam-top-played.png
+medium_url: https://medium.com/@unmappedworlds/6-629-hours-in-my-steam-library-4bafb3f22aaa
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3lzgozgah3s22
 ---
 
 In 13 years that I've I had a Steam account, I've clocked in 6,629 hours in my Steam library alone. That's 276 days of non-stop game time.
