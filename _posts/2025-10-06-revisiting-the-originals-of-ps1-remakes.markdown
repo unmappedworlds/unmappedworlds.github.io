@@ -4,6 +4,8 @@ title: "The year is 1998: revisiting the originals of PS1 remakes"
 date: 2025-10-06 07:00:00 -0700
 categories: retrospectives
 excerpt_img: /assets/images/anbernic-rg35xx-pro.jpg
+medium_url: https://medium.com/@unmappedworlds/the-year-is-1998-revisiting-the-originals-of-ps1-remakes-4f3f36efe450
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m2jwv3gzn22d
 ---
 
 When I was a kid I inherited a PlayStation 1 console from my uncle. It came with a few dozen games in beat up disk cases - I don't think I asked for more games - maybe because I had enough, or maybe because I didn't think of it.
