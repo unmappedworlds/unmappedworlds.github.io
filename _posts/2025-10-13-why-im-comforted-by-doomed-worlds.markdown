@@ -4,6 +4,8 @@ title: "Why I'm comforted by doomed worlds"
 date: 2025-10-13 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/fallout-3-highway.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m33kjjbcg22b
+medium_url: https://medium.com/@unmappedworlds/why-im-comforted-by-doomed-worlds-fa26a08af725
 ---
 
 Hello, friends. Today I’m going to try something slightly different \- even more rambly than usual, even more of a stream of consciousness. I’ve been trying to put an article together for a couple of days now (granted, in whatever short bursts I have when I’m not on childcare duty) \- but I gave up half a page in, for three drafts in a row.
