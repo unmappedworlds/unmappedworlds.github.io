@@ -4,6 +4,8 @@ title: "I use scaffolding to cut down trees in Minecraft"
 date: 2025-10-20 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/minecraft-floating-tree.png
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m3n27wwcoc2f
+medium_url: https://medium.com/@unmappedworlds/i-use-scaffolding-to-cut-down-trees-in-minecraft-230c8ec9d537
 ---
 
 I have something to admit about video games. Sometimes I get overwhelmed by playing a game, and I restart it and abandon the game altogether. Be it mild OCD, a desire for control, or whatever else - I have this desire to play a game in a very specific way, and if I, for whatever reason, can’t - well, back to the beginning, or next onto a different game.
