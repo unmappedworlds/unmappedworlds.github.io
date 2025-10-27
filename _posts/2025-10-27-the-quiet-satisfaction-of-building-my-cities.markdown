@@ -44,7 +44,7 @@ Then, of course, there's the straight up hostile activities against your city. L
 ![A rainy night in Becastled, less than a dozen undead are attacking the village palisade gates, with some swordsmen and archers fending them off.](/assets/images/becastled-enemies.png)
 *Every 10-or-so minutes a night comes in Becastled, and you have to fend off increasingly large enemy waves.*
 
-Or you could just, say, play Becastled (or a rather similar Kingdoms and Castles), which is a town building/tower defense game - where every day you prepare for increasingly hostile raids. There's Against the Storm too, a roguelite city builder that's almost solely focused on conquering hostline environments one at a time. Or Frostpunk, a city builder where your city will inevitably fail, and you'll just have to deal with the damage control.
+Or you could just, say, play Becastled (or a rather similar Kingdoms and Castles), which is a town building/tower defense game - where every day you prepare for increasingly hostile raids. There's Against the Storm too, a roguelite city builder that's almost solely focused on conquering hostile environments one at a time. Or Frostpunk, a city builder where your city will inevitably fail, and you'll just have to deal with the damage control.
 
 There's such a huge variety of games within the genre, and the experience can be extremely customizable within each game - I like that about city builders.
 
