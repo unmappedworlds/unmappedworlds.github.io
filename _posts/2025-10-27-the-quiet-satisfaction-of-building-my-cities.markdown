@@ -3,6 +3,9 @@ layout: post
 title: "The quiet satisfaction of building my cities"
 date: 2025-10-27 07:00:00 -0700
 categories: reflections
+excerpt_img: /assets/images/farthest-frontier-village.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m46rtckigc2b
+medium_url: https://medium.com/@unmappedworlds/the-quiet-satisfaction-of-building-my-cities-cac3f3b98517
 ---
 
 I played two city builder games that graduated from early access this week - Becastled and Farthest Frontier, and they reminded me why I love the genre so much. This isn't a review, it's a love letter to a specific feeling city builders invoke. Maybe you'll see a game you didn't know about and choose to pick it up.
