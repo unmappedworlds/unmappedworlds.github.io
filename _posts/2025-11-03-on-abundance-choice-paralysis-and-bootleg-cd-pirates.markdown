@@ -6,7 +6,7 @@ categories: reflections
 excerpt_img: /assets/images/arx-fatalis-goblin-king.png
 ---
 
-Last week I finally decided to check out Arx Fatalis - an incredible early RPG title from Arkane Studios. Arx Fatalis is an incredible game - it has an innovative magic system where you draw runes on your screen, and the game's really a blend of an immersive sim and an RPG - if you can think of something, it'll probably work. It's an awesome game, and it stands up incredibly well due to Arx Libertatis - a mod faithful to the original, which irons out many of the game's quirks and issues. I mean Arx Fatalis is just Morrowind underground - what's not to love?
+Last week I finally decided to check out Arx Fatalis - an incredible early RPG title from Arkane Studios. Arx Fatalis has an innovative magic system where you draw runes on your screen, and the game's really a blend of an immersive sim and an RPG - if you can think of something, it'll probably work. It's an awesome game, and it stands up incredibly well due to Arx Libertatis - a mod faithful to the original, which irons out many of the game's quirks and issues. I mean Arx Fatalis is just Morrowind underground - what's not to love?
 
 I adored Arx Fatalis, but at some point, about half way through the game I just stopped playing. The section I was playing through was a bit tedious, and it wasn't exactly clear where to go next. I had a couple of real life days between me and my desktop, and when I came back I got a notification that Farthest Frontier finally left beta and I couldn't resist checking it out. Arx Fatalis still sits untouched, with my hero - Am Shaegar - sitting in some cave waiting for me to come back.
 
