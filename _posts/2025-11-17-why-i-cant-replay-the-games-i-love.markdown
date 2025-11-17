@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I can't replay the games I love"
-date: 2025-11-16 07:00:00 -0700
+date: 2025-11-17 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/bioshock-infinite.png
 ---
