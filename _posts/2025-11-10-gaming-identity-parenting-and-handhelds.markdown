@@ -4,6 +4,8 @@ title: "Gaming identity, parenting, and handhelds"
 date: 2025-11-10 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/clair-obscur-expedition-33.jpg
+medium_url: https://medium.com/p/308ac40aa8cc
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m5c2fk6cw226
 ---
 
 As a father to an infant, I don't really have much time for video games these days. Especially not the type of games I love - sprawling RPGs, strategy games, or city builders. So most of my limited gaming time has been spread between watching YouTube videos from my favorite gaming creators, writing about games (like now), and actual gaming time distributed across a few handheld devices.
