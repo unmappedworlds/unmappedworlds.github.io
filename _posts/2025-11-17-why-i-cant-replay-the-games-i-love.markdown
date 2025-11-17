@@ -4,6 +4,8 @@ title: "Why I can't replay the games I love"
 date: 2025-11-17 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/bioshock-infinite.png
+medium_url: https://medium.com/@unmappedworlds/why-i-cant-replay-the-games-i-love-41158afbadd5
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m5tnrmq5xk2b
 ---
 
 I like nothing more than a fresh start, often as soon as I finished the game I loved. I get so excited, and then a couple hours later (or even longer), I abandon the game completely. I have many abandoned second playthoughs like this in my library - from Witcher 3 to Elden Ring, from Baldur's Gate III to Death Stranding and beyond into Outward, Subnautica, Prey... And the list only keeps growing.
