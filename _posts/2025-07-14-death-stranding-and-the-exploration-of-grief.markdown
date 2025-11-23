@@ -2,7 +2,7 @@
 layout: post
 title: "Death Stranding and the exploration of grief"
 date: 2025-07-14 07:00:00 -0700
-categories: reflections
+categories: [reflections, parenthood]
 excerpt_img: /assets/images/death-stranding-bb.jpg
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3ltwl7drqys22
 medium_url: https://medium.com/@unmappedworlds/death-stranding-and-the-exploration-of-grief-a69123225665

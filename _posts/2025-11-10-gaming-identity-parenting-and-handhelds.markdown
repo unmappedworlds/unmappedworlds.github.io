@@ -2,7 +2,7 @@
 layout: post
 title: "Gaming identity, parenting, and handhelds"
 date: 2025-11-10 07:00:00 -0700
-categories: reflections
+categories: [reflections, parenthood]
 excerpt_img: /assets/images/clair-obscur-expedition-33.jpg
 medium_url: https://medium.com/p/308ac40aa8cc
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m5c2fk6cw226
