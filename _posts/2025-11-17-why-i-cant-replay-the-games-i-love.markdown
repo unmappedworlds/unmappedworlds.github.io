@@ -13,7 +13,7 @@ I like nothing more than a fresh start, often as soon as I finished the game I l
 ![Bioshock Infinite's floating city Columbia street scene with a massive statue and a hot dog cart.](/assets/images/bioshock-infinite.png)
 *Bioshock Infinite: Welcome to Columbia. No repeat rides for me.*
 
-It's in the human nature to want more of a thing that you enjoy. Hey, I really enjoyed the way Bioshock Infinite ended (or rather the whole journey there), and after sitting through the end credits - I immediately booted up another playthrough. Playing through the tightly designed opening, picking up on hints I missed on my first playthrough... I replay a game out of pure excitement: I had so much fun, and I want to have more fun.
+It's in human nature to want more of a thing that you enjoy. Hey, I really enjoyed the way Bioshock Infinite ended (or rather the whole journey there), and after sitting through the end credits - I immediately booted up another playthrough. Playing through the tightly designed opening, picking up on hints I missed on my first playthrough... I replay a game out of pure excitement: I had so much fun, and I want to have more fun.
 
 But here's the problem. In Bioshock Infinite, I lasted a couple of hours until I realized that the game won't make me feel the same way again. Yeah, the shooting's fun, the flying city of Columbia is gorgeous, Elizabeth is charming - but it's not the same. I know how this story ends, and replaying the game doesn't recapture the sensation.
 
