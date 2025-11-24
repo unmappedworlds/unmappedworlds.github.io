@@ -4,6 +4,8 @@ title: "Becoming a game critic who doesn't play games"
 date: 2025-11-24 07:00:00 -0700
 categories: [reflections, parenthood]
 excerpt_img: /assets/images/starfield.jpg
+medium_url: https://medium.com/@unmappedworlds/becoming-a-game-critic-who-doesnt-play-games-019eaa1eb60b
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m6fbhhtpp22v
 ---
 
 Starfield is a big AAA game I have lots of opinions about - I don't appreciate the lifeless NPCs, and I despise the faction design. I find the worlds barren and the plot lazy. And ugh, the loading screens. The loading screens everywhere. Why the hell do I have to wait through six loading screens to talk to a shopkeeper? Your game sucks, Bethesda!
