@@ -4,6 +4,8 @@ title: "Total Warhammer is my ultimate cozy game, fight me"
 date: 2025-12-01 07:00:00 -0700
 categories: [reviews, retrospectives]
 excerpt_img: /assets/images/total-warhammer-iii-campaign-map.jpg
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m6wrayh46c2o
+medium_url: https://medium.com/@unmappedworlds/total-warhammer-is-my-ultimate-cozy-game-fight-me-72577d7d2d02
 ---
 
 Look, I need to get something off my chest. I've owned every single Total War: Warhammer game since the first one dropped back in 2016. Nine years. Nine years of building this collection like some digital hoarder, convincing myself that each DLC was exactly what I needed (Vampire Coast? Naturally. Chaos dwarfs? Take my money). And yet - and yet - I never actually finished a single campaign until about last year.
