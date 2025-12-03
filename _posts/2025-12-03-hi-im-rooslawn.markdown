@@ -4,6 +4,7 @@ title: "Hi, I'm Rooslawn"
 date: 2025-12-03 13:00:00 -0700
 categories: [meta]
 excerpt_img: /assets/images/rooslawn-saying-hi.png
+medium_url: https://medium.com/@unmappedworlds/hi-im-rooslawn-23896bc40d7a
 ---
 
 For the past 8 months, I've been sharing weekly essays about video games. I started this blog anonymously because I wanted to experiment with a different voice. Writing without my name attached meant less fear of failure, which gave me permission to try things - different styles, higher cadence, vulnerable topics, deeply uncomfortable honesty. It's how I ended up sharing things I never expected to put online, like [my grief journey after losing my son](/posts/death-stranding-and-the-exploration-of-grief/).
