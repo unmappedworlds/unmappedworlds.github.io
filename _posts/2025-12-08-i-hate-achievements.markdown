@@ -2,7 +2,7 @@
 layout: post
 title: "I hate achievements"
 date: 2025-12-08 07:00:00 -0700
-categories: [retrospectives]
+categories: [reflections]
 excerpt_img: /assets/images/steam-achievements.png
 ---
 

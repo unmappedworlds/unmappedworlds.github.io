@@ -2,7 +2,7 @@
 layout: post
 title: "Total Warhammer is my ultimate cozy game, fight me"
 date: 2025-12-01 07:00:00 -0700
-categories: [reviews, retrospectives]
+categories: [reviews, reflections]
 excerpt_img: /assets/images/total-warhammer-iii-campaign-map.jpg
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m6wrayh46c2o
 medium_url: https://medium.com/@unmappedworlds/total-warhammer-is-my-ultimate-cozy-game-fight-me-72577d7d2d02

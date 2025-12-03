@@ -2,7 +2,7 @@
 layout: post
 title: "Fast travel is awesome"
 date: 2025-12-15 07:00:00 -0700
-categories: [retrospectives]
+categories: [reflections]
 excerpt_img: /assets/images/morrowind-silt-strider.png
 ---
 
