@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Unmapped Worlds is a blog about video games.
+I'm Rooslawn, and Unmapped Worlds is a blog about video games.
 
 I've always hated magical maps with built-in GPS in games. They often take away the thrill of exploration, and the ability of the protaginst to instantly know where they are rarely makes sense in-universe. For me, becoming familiar with the landscapes and learning to navigate digital worlds is an engaging part of gameplay, and I appreciate when games challenge you to truly engage with their environments.
 
