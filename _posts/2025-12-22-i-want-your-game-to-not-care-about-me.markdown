@@ -6,9 +6,7 @@ categories: [reflections]
 excerpt_img: /assets/images/subnautica-squid.jpg
 ---
 
-I like feeling small.
-
-Not in the sad, pathetic way - in the cosmic way. That very specific flavor of dread where you realize you're an utterly meaningless speck in a vast, uncaring universe. There's something weirdly comforting in it, actually. When you internalize just how incomprehensibly huge existence is, your own problems start to feel a lot smaller. Life's got you down? Sure, but also there are forces beyond mortal comprehension out there, so maybe it's fine.
+I like feeling small. Not in the sad, pathetic way - in the cosmic way. That very specific flavor of dread where you realize you're an utterly meaningless speck in a vast, uncaring universe. There's something weirdly comforting in it, actually. When you internalize just how incomprehensibly huge existence is, your own problems start to feel a lot smaller. Life's got you down? Sure, but also there are forces beyond mortal comprehension out there, so maybe it's fine.
 
 I remember the exact moment Subnautica begun messing with my head. I'd been swimming down, chasing some resource or another, and I looked up. No sunlight. Just dark water above me, dark water below me, dark water in every direction. I was alone on an alien planet, suspended in an ocean that couldn't care less whether I lived or died. My lizard brain screamed at me to surface, to find light, to get out. I didn't want to keep playing. I had to keep playing.
 
