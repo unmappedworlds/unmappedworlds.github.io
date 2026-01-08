@@ -44,7 +44,7 @@ I think there's a reason this style of game resonates so deeply with me specific
 
 When I was a kid, playing games in English, which I couldn't understand, everything was mysterious by default. I didn't know where to go in Resident Evil 2 because I couldn't read the hints. I didn't understand Deus Ex's plot because the dialogue was gibberish to me. The mystery wasn't designed - it was a byproduct of my own ignorance.
 
-Games like Outer Wilds and it's excellent DLC Echoes of the Eye deliberately recreate that feeling. They want you confused. They want you piecing together fragments. They're handing you a puzzle box with no instructions and trusting you to figure things out.
+Games like Outer Wilds and its excellent DLC Echoes of the Eye deliberately recreate that feeling. They want you confused. They want you piecing together fragments. They're handing you a puzzle box with no instructions and trusting you to figure things out.
 
 ![Tunic's in-game manual with gibberish text and images explaining how to dodge-roll. Screenshot by the author.](/assets/images/tunic-manual.png)
 *Tunic features an in-game manual in a gibberish language, complete with notes on the margins and puzzle hints left by the game's previous owner.*
@@ -62,7 +62,7 @@ Not all knowledge progression is quite so freeform. There's a whole genre of gam
 Return of the Obra Dinn hands you a ship full of corpses and asks: what happened to each of these sixty people? You have a magic pocket watch that lets you see their moment of death. That's it. No quest markers. No highlighted clues. Just observation, deduction, and a spreadsheet of fates to fill in.
 
 ![A black-and white picture of Return of Obra Dinn's protagonist holding a timepiece in front of a withered dead body. Image courtesy of 3909 LLC.](/assets/images/return-of-the-obra-dinn.png)
-*Return of the Obra Dinn: It's just your magical timepiece, a ledger, and your wit. There are 60 fates to determine.*
+*Return of the Obra Dinn: It is just your magical timepiece, a ledger, and your wit. There are 60 fates to determine.*
 
 Beyond that, you figure out the rules of the game - the approaches for solving the mystery - on your own. I like when games respect your intelligence. It's not a hard game by any means, and it employs many clever tricks to make the game easier (like confirming every three correct guesses you make) - but it expects you to put the work into figuring things out.
 
