@@ -4,6 +4,8 @@ title: "Why Valheim's food feels good (and Fallout 4's doesn't)"
 date: 2026-01-19 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/valheim-cooking.png
+medium_url: https://medium.com/@unmappedworlds/why-valheims-food-feels-good-and-fallout-4-s-doesn-t-12f5ce40a246
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mcs6esfoz22j
 ---
 
 I'm standing at my little Viking campfire, about to fight Eikthyr. He's the game's first boss - an enormous glowing stag with electrified antlers, chains wrapped around him like some Norse fever dream. I've got my crude bow, a handful of wooden arrows, and a flint spear that I'm not confident about.

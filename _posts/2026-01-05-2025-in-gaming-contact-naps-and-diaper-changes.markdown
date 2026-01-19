@@ -4,6 +4,8 @@ title: "2025 in gaming, contact naps, and diaper changes"
 date: 2026-01-05 07:00:00 -0700
 categories: retrospectives
 excerpt_img: /assets/images/my-gaming-consoles-on-the-table.jpg
+medium_url: https://medium.com/@unmappedworlds/2025-in-gaming-contact-naps-and-diaper-changes-05fec31283a3
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mboxcavvh22v
 ---
 
 My daughter is asleep on my chest. I have maybe twenty minutes before she stirs, and my Anbernic is in my hoodie pocket. I'm playing Harvest Moon: Back to Nature, a game from 1999, on a handheld the size of my phone. This is what gaming looked like for me in 2025.

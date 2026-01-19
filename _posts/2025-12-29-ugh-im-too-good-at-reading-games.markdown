@@ -4,6 +4,8 @@ title: "Ugh, I'm too good at reading games"
 date: 2025-12-29 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/outer-wilds-spaceship-interior.jpg
+medium_url: https://medium.com/@unmappedworlds/ugh-im-too-good-at-reading-games-a719b3ce9b57
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mb5bz35dg52w
 ---
 
 Give me ten minutes with an RPG and I'll tell you which stats are dump stats. Drop me in a survival game and I'll identify the tech tree's critical path before I've built my first workbench. I see the skinner boxes, the content padding, the level-gated areas pretending to be mysterious.

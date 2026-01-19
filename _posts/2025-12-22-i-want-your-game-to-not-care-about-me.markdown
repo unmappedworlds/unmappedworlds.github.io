@@ -4,6 +4,8 @@ title: "I want your game to not care about me"
 date: 2025-12-22 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/subnautica-squid.jpg
+medium_url: https://medium.com/@unmappedworlds/i-want-your-game-to-not-care-about-me-e506b9bc6555
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3maloqn4rtv2z
 ---
 
 I like feeling small. Not in the sad, pathetic way - in the cosmic way. That very specific flavor of dread where you realize you're an utterly meaningless speck in a vast, uncaring universe. There's something weirdly comforting in it, actually. When you internalize just how incomprehensibly huge existence is, your own problems start to feel a lot smaller. Life's got you down? Sure, but also there are forces beyond mortal comprehension out there, so maybe it's fine.

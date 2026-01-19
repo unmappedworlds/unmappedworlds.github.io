@@ -4,6 +4,8 @@ title: "Why boring games are so exciting"
 date: 2026-01-12 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/easy-delivery-co.jpg
+medium_url: https://medium.com/@unmappedworlds/why-boring-games-are-so-exciting-5caf3ccb7df5
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mcaijxrg442y
 ---
 
 I just finished Easy Delivery Co - a simple, short delivery driving simulator. It's just PS1-inspired graphics, a small cast of Animal Crossing-inspired characters, your Kei truck, and good vibes. Most of the game is spent driving around the mountains, delivering packages. It's not a particularly detailed driving game, the progression is basic (capping out after 3 upgrades), and the maps are small and easy to navigate. Yet, I enjoyed driving through the snow-covered mountain roads, listening to lo-fi beats, and zoning out.

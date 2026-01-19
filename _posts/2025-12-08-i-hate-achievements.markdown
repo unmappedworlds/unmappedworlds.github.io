@@ -4,6 +4,8 @@ title: "I hate achievements"
 date: 2025-12-08 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/steam-achievements.png
+medium_url: https://medium.com/404-geek-not-found/i-hate-achievements-291a9174349a
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3m7ii7rkio72q
 ---
 
 Look, I have mild OCD. When a game pops up a list of achievements, my brain doesn't see "optional fun challenges." It sees a checklist. And checklists? Checklists must be completed.

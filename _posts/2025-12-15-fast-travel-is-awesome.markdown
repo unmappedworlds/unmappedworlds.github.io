@@ -4,6 +4,8 @@ title: "Fast travel is awesome"
 date: 2025-12-15 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/morrowind-silt-strider.png
+medium_url: https://medium.com/@unmappedworlds/fast-travel-is-awesome-3e84d11e4ebc
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3ma23i77d7y2z
 ---
 
 Get your pitchforks here! Come get your pitchforks! "Fast travel is awesome." Okay, I omitted a word for dramatic effect: "Diegetic fast travel is awesome". That is, fast travel that's deeply integrated with the game's world is among the most rewarding in-game mechanics.
