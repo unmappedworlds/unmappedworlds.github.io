@@ -104,7 +104,7 @@ Punitive food systems work too, you just have to build your game around them.
 
 Don't Starve puts it right there in the title. The whole game is about managing your hunger, your sanity, your survival against a hostile world. Hunger isn't a tax on gameplay - hunger is gameplay. Removing the constant pressure of starvation would fundamentally break what the game is trying to do.
 
-![Protagonist of Don't Starve huddled by a fire at a meager snowy campsite. Image courtesy of Klei Press.](/assets/images/dont-starve.png)
+![Protagonist of Don't Starve huddled by a fire at a meager snowy campsite. Image courtesy of Klei Press.](/assets/images/dont-starve-winter.png)
 *Don't Starve: It's in the name. Trying to not starve is a major gameplay loop.*
 
 The Long Dark, on sufficient difficulty, keeps you constantly thinking about calories. Every decision factors in energy expenditure. Do I risk the blizzard to check that cabin? How much will it cost me in body heat? Can I afford to spend the calories? That's the core gameplay loop.
