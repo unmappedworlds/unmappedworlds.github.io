@@ -4,6 +4,8 @@ title: "Preparation as play: Vintage Story"
 date: 2026-01-26 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/vintage-story-cellar.png
+medium_url: https://medium.com/@unmappedworlds/preparation-as-play-vintage-story-17afabc2b6c2
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mddm7q563c2e
 ---
 
 I've been staring at my in-game larder for five minutes now. Just standing in my cellar - a cellar I dug out - admiring my sealed crocks, pies, and grain baskets. Fifteen hours into Vintage Story, and this is my endgame: crocks.
