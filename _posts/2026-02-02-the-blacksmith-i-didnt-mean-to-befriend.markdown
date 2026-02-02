@@ -4,6 +4,8 @@ title: "The blacksmith I didn't mean to befriend"
 date: 2026-02-02 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/tainted-grail-osbryht.jpg
+medium_url: https://medium.com/@unmappedworlds/the-blacksmith-i-didnt-mean-to-befriend-5f69d99668ea
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mdvcef3k4k2b
 ---
 
 Meet Osbryht, a blacksmith in Kamelot's military outpost. He's the first merchant I've met in Tainted Grail: Fall of Avalon, and he's been a reliable source of armor, weapons, and crafting materials. I often stop by Osbryht's forge to make arrows, upgrade my armor, and sell off my hard-earned loot. Sometimes he'd tutor me through crafting armor, complain about fellow keepers, or ask me to make a simple delivery. Once he told me that those relics I picked up from a shady salesman don't really do anything - an observation for which said merchant paid in blood. More on that later.
