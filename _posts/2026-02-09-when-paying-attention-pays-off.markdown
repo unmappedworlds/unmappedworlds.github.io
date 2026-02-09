@@ -4,6 +4,8 @@ title: "When paying attention pays off"
 date: 2026-02-09 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/morrowind-temple-shrine.png
+medium_url: https://medium.com/@unmappedworlds/when-paying-attention-pays-off-8c9416143877
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3megsgvqz4c2l
 ---
 
 Morrowind's "Atronach" birth sign, which you can select upon creating your character, doubles your amount of magicka (which you use to cast spells), but stops it from regenerating when you rest. You see, wizards can restore their magicka by resting - which really isn't that hard to do. You don't even need a bed - just plop yourself in the middle of a dungeon, recharge, and keep on fighting. The Atronach sign changes the flow. Now you're dealing with a substantial pool of resources that doesn't get restored for free.
