@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When paying attention pays off"
-date: 2026-02-08 07:00:00 -0700
+date: 2026-02-09 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/morrowind-temple-shrine.png
 ---
