@@ -57,3 +57,5 @@ When you’re out gathering materials, consider leaving in-world markers for fut
 *You can get creative with the markers you use.*
 
 So, give this mapless playthrough a shot, and you might just find yourself enjoying Vintage Story in a whole new way. Happy exploring!
+
+P.S: You may want to check out my essay on the way Vintage Story treats [preparation as play](/posts/preparation-as-play-vintage-story/). I think it's pretty good.

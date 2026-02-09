@@ -81,3 +81,5 @@ On a campaign map, prioritize building Lychyards (a tier II growth building), wh
 While I played through this campaign on Very Hard difficulty, you might want to drop down combat difficulty to improve your chances in autoresolve. Zombietide is nearly unbeatable, but autoresolve doesn't quite know it yet: lower combat difficulty will reduce the number of battles you'll have to fight manually - which you'll be thankful for since you'll be able to field countless armies of shambling undead. 
 
 Finally, I recommend playing with [Victory Conditions Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3140200173) mod, as it'll set engaging, lore-friendly objectives with worthwhile rewards (including even more ridiculous buffs for your zombies).
+
+By the way, [Total Warhammer is my ultimate comfort game, fight me](/posts/total-warhammer-is-my-ultimate-cozy-game-fight-me/).
