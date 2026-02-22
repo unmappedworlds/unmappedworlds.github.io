@@ -4,6 +4,8 @@ title: "The dishwasher problem with crafting in games"
 date: 2026-02-16 07:00:00 -0700
 categories: reflections
 excerpt_img: /assets/images/minecraft-smithy.png
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3meyfksyekc25
+medium_url: https://medium.com/@unmappedworlds/the-dishwasher-problem-with-crafting-in-games-47787f9a0c5c
 ---
 
 I didn't grow up particularly handy: the most I could do is know how to put together a computer, and only because that's no different than playing with LEGOs. Almost as expensive, too.
