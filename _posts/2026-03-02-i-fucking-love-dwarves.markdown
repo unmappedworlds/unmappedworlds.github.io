@@ -4,6 +4,8 @@ title: "I fucking love dwarves"
 date: 2026-03-02 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/total-warhammer-thorgrim-grudgebearer.jpg
+medium_url: https://medium.com/@unmappedworlds/i-fucking-love-dwarves-97e194419ef9
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mg3m5wckxc2e
 ---
 
 Here's the thing. I fucking love dwarves. Or dwarfs, if you're Games Workshop who doesn't subscribe to Tolkien's contributions to English language.
