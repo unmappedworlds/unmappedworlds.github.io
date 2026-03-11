@@ -4,6 +4,9 @@ title: "I wasted my gaming day chasing a feeling"
 date: 2026-03-09 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/farthest-frontier-barracks.jpg
+medium_url: https://medium.com/@unmappedworlds/i-fucking-love-dwarves-97e194419ef9
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mgn5jmvgrk2a
+excerpt: Why I keep replaying games I've already mastered instead of trying something new
 ---
 
 Today's my gaming day. Wife and kiddo are out adventuring, I'm up early, excited - I don't get these days often.

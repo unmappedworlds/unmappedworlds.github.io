@@ -6,6 +6,7 @@ categories: [reflections]
 excerpt_img: /assets/images/total-warhammer-thorgrim-grudgebearer.jpg
 medium_url: https://medium.com/@unmappedworlds/i-fucking-love-dwarves-97e194419ef9
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mg3m5wckxc2e
+excerpt: Why I always pick the dwarf, and why most games waste the archetype
 ---
 
 Here's the thing. I fucking love dwarves. Or dwarfs, if you're Games Workshop who doesn't subscribe to Tolkien's contributions to English language.

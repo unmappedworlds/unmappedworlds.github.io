@@ -6,6 +6,7 @@ categories: [reflections, reviews]
 excerpt_img: /assets/images/tainted-grail-deadeye-bow.jpg
 bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mfk44q4ajw2q
 medium_url: https://medium.com/@unmappedworlds/i-one-shot-everything-in-tainted-grail-and-kept-playing-079cbc79a39a
+excerpt: How a AA RPG's systems fed into each other better than I expected
 ---
 
 I was playing through Tainted Grail: Fall of Avalon as a nimble archer. For the most part, the combat felt fair - I'd grow in power, mow down previously impossible to defeat enemies, get hit by a new wall of difficulty as I progress. And then I stumbled upon a Deadeye Bow: a bow with ridiculously high damage. The downside: it only deals the damage if you score a critical hit - or hit an enemy's weakspot, like their head. Oh, and it looked cool - with eyes all around it.
