@@ -5,6 +5,8 @@ date: 2026-03-16 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/lunacid-title-screen.jpg
 excerpt: Hidden content, illusory walls, and why completion percentages ruin everything
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mh6qxdqebb2m
+medium_url: https://medium.com/@unmappedworlds/oy-let-me-miss-things-98cfe81ff06f
 ---
 
 I just finished Lunacid. It's a first-person dungeon crawler built as a love letter to FromSoftware's King's Field series - games I've never actually played. But games I'm aware of - these were the predecessors to Dark Souls, one of my personal favorites. Going in, I knew exactly two things about Lunacid: that King's Field connection, and that somewhere in its depths there's a Moonlight Greatsword. The Moonlight Greatsword - the one that shows up in almost every FromSoftware game. Dark Souls, Bloodborne, Elden Ring - it's always there, always hidden, always worth finding.
