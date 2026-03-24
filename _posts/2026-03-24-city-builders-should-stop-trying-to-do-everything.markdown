@@ -5,6 +5,8 @@ date: 2026-03-24 14:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/timberborn-empty-settlement.jpg
 excerpt: How beaver-themed Timberborn wants to be three games at once - and none of them that well
+medium_url: https://medium.com/@unmappedworlds/city-builders-should-stop-trying-to-do-everything-009f2f0f27bd
+bluesky_url: https://bsky.app/profile/unmappedworlds.bsky.social/post/3mhtkmaoizc2g
 ---
 
 I spent a little over a week of my gaming time building dams and terraforming the land in Timberborn - granted, that's about 20-or-so hours these days. And now I have some new thoughts on what I like and don't like in city builders.
