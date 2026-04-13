@@ -5,6 +5,7 @@ date: 2026-04-06 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/cairn-climbing.jpg
 excerpt: I gave myself permission to quit a game I'd been waiting for. It felt great.
+medium_url: https://medium.com/p/2df778725c9a
 ---
 
 Last month I bought Cairn - a game I'd been waiting for. It's a rock climbing game. It's got a novel, unforgiving climbing mechanic, and a story that's set up to explore some complex themes. I booted it up, played through a few hours. I enjoyed the rock climbing - it was cool. I did some bouldering here and there in the past, and it was fun translating some knowledge into a video game. I enjoyed tactile inventory management as stuff swished around in my backpack.

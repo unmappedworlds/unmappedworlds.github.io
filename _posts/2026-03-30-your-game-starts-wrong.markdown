@@ -5,6 +5,7 @@ date: 2026-03-30 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/dispatch-robert-vs-z-team.png
 excerpt: How Dispatch starts its demo with episode 2 - and how the main game's intro almost made me refund the game
+medium_url: https://medium.com/p/3062d39c8482
 ---
 
 I loved Dispatch - a workspace drama comedy, a-la The Office for superheroes. I picked it up because it has a demo - so I tried it out. Demo was awesome. It throws you into the deep end of a workspace comedy - your first day in the office, great and witty humor, fantastic pacing, charismatic characters, and the minutia of superhero life. So I bought the full game.
