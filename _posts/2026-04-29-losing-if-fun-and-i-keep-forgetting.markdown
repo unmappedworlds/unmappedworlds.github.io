@@ -5,6 +5,7 @@ date: 2026-04-29
 categories: [reflections]
 excerpt_img: /assets/images/rimworld-in-flames.jpg
 excerpt: I spend my life avoiding failure. Then I boot up a strategy game and do the same thing, and wonder why I'm not having fun.
+medium_url: https://medium.com/@unmappedworlds/losing-is-fun-and-i-keep-forgetting-fb18967b066f
 ---
 
 I'm very good at ruining my own fun.

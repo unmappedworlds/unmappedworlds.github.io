@@ -5,6 +5,7 @@ date: 2026-04-13 07:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/total-warhammer-iii-faction-selection-screen.jpg
 excerpt: Before all the possibilities collapse into a single, narrow path.
+medium_url: https://medium.com/@unmappedworlds/start-screen-is-the-best-part-of-the-game-f8e2c99b98ac
 ---
 
 Earlier today I stopped by local Costco. I don't normally shop at Costco - we live in a small house, have a relatively small kitchen, and most important of all - I have a terrible track record of using up bulk goods. Yet, walking through the aisles felt great as every aisle held new possibilities. I could slow roast this massive cut of beef! I could meal prep for the week! I could buy a massive box of snacks and have it last more than a day this time!

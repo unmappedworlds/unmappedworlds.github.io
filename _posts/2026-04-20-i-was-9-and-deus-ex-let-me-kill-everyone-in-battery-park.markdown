@@ -5,6 +5,7 @@ date: 2026-04-20 23:00:00 -0700
 categories: [reflections]
 excerpt_img: /assets/images/deus-ex-battery-park.jpg
 excerpt: Every time I visit New York, I stop by Battery Park at night. Fewer rats now. A lot less murder than my 9-year-old self remembers.
+medium_url: https://medium.com/@unmappedworlds/i-was-9-and-deus-ex-let-me-kill-everyone-in-battery-park-accab7cfa993
 ---
 
 Every time I visit New York, I make an effort to stop by Battery Park at night. The place has changed over the decade I've been making the trek - fewer rats now, and I didn't see as many homeless folks when I stopped by last year. The rats added to the ambiance, so that was a tad disappointing. And a lot less murder than my 9-year-old self remembers.
